@@ -1,1 +1,2 @@
 # Machine-Learning-Numpy-liabrary
+This project contains a comprehensive Jupyter Notebook designed to help beginners and intermediate Python users understand the core functionalities of NumPy—a powerful library for numerical computing. The notebook walks through practical examples of array creation, manipulation, indexing, broadcasting, vectorized operations, and basic statistical analysis. It is ideal for students, data analysts, and anyone looking to strengthen their foundation in scientific computing with Python.
